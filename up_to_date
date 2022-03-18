@@ -1,2 +1,4 @@
 touch up_to_date
 > up_to_date
+echo " touch up_to_date"
+echo " > up_to_date"
