@@ -1,5 +1,5 @@
 touch up_to_date
 git add .
-git commit -m "How to code with git"
+git commit -m "How to be up to date git"
 git push -u origin main
 git pull origin main
